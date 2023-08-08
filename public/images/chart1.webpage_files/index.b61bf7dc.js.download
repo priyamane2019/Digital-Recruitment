@@ -1,0 +1,2 @@
+self.__SSG_MANIFEST=new Set(["/","/application-form","/backup","/curriculum","/home","/m/[...slug]","/onlinemsprogram","/placements","/referral-page","/s/[...slug]","/thank-you","/v1","/v1/IU-masters-computerscience","/v1/IU-masters-datascience","/v1/IU-maters-datascience","/v1/MIA-masters","/v1/about-us","/v1/full-stack-development","/v1/hire-from-us","/v1/masters-university","/v1/privacy-policy","/v1/terms-conditions","/v1/university-course-page"]),self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB();
+//# sourceMappingURL=index.b61bf7dc.js.map
